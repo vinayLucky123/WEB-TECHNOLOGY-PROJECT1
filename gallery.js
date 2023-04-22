@@ -3,7 +3,7 @@ function collOfImg()
     var allImgTag=document.images;
     for(i=0;i<allImgTag.length;i++)
     {
-        allImgTag[i].src=`./images/${i}.jpeg`
+        allImgTag[i].src=`./${i}.jpeg`
     }
 }
 collOfImg()
