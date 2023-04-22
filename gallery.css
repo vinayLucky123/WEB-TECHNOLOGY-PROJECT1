@@ -35,7 +35,7 @@ body{
     height: 260px;
     border: 2px solid whitesmoke;
     margin-top: 30px;
-    background-image: url(./images/0.jpeg);
+    background-image: url((./0.jpeg);
     background-size: 100% 100%;
     box-shadow: 5px 5px 5px black;
 }
